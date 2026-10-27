@@ -1,0 +1,6 @@
+{
+  "name": "KOLIBRINEST.ID - Enterprise Project & Division Management",
+  "description": "Aplikasi manajemen pekerjaan Kolibrinest.id untuk memantau pengguna aktif, divisi Sales, Marketing, Publication, beban kerja personel, order request, anggaran tahunan, dan proyeksi masa depan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
